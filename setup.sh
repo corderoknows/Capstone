@@ -5,6 +5,6 @@ export FLASK_APP=app.py
 export AUTH0_DOMAIN='dev-iete7gtr2uo5uot6.us.auth0.com'
 export ALGORITHMS=['RS256']
 export API_AUDIENCE='capstone'
-export CLIENT_ID='yJLuLnnTiWoyrJnpmNfdn0SfUDd846v7'
+export CLIENT_ID='plTnkdWnBVGizsECukHM9a4BRawcaMFE'
 
 
